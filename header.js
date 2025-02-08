@@ -1,5 +1,6 @@
 // header.js
 document.write(`
+    <link rel="shortcut icon" href="School Logo.png" type="image/x-icon">
     <header>
         <h1>Welcome to Maple International School Policies and Guidelines</h1>
         <p>Your one-stop resource for all school rules, regulations, and information.</p>
